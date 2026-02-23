@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs / temp
+*.log
+*.tmp
+
+# Backend app artifacts
+visa-dossier-api/vendor/
+visa-dossier-api/node_modules/
+visa-dossier-api/public/build/
+visa-dossier-api/public/hot
+visa-dossier-api/public/storage
+
+# Frontend app artifacts
+visa-dossier-web/node_modules/
+visa-dossier-web/dist/
+visa-dossier-web/coverage/
